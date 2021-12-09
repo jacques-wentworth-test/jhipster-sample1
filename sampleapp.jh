@@ -4,7 +4,8 @@ entity Region {
 }
 
 entity Country {
-	countryName String
+	countryName String,
+    countryCode String
 }
 
 // an ignored comment
